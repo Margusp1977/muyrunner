@@ -1,7 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import Footer from './components/Footer';
-
+import Footer from "./components/Footer.jsx";
 
 function App() {
     return ( < div className = "App" >
