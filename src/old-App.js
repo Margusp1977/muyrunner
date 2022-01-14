@@ -2,7 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 import Footer from "./components/Footer.jsx";
 import NavBar from "./components/NavBar.jsx";
-
+import CartWidget from "./components/CartWidget.jsx";
 
 function App() {
     return ( < div className = "App" >

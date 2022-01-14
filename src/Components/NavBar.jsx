@@ -1,5 +1,6 @@
 import React from 'react';
 
+
 function NavBar() {
     return (
       <div>
@@ -18,6 +19,9 @@ function NavBar() {
               </li>
               <li>
                 <a >Contacto</a>
+              </li>
+              <li>
+                <CartWidget />
               </li>
             </ul>
           </div>
